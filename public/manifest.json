@@ -1,8 +1,0 @@
-{
-  "name": "ETF AI System",
-  "short_name": "ETF",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#0a0f1e",
-  "theme_color": "#0a0f1e"
-}
