@@ -2,8 +2,11 @@
   "name": "etf-ai-system",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "14.0.0"
   }
 }
